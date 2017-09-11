@@ -1,0 +1,101 @@
+h1 {
+  font-family: helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+.broadway {
+background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
+
+.identify {
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.understand {
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.execute {
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.focus {
+  font-family: helvetica;
+  font-size: 14px;
+}
+
+.study {
+  font-family: helvetica;
+  font-size: 14px;
+}
+
+.everything {
+  font-family: helvetica;
+  font-size: 14px;
+}
+
+.designed {
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
+
+.portfolio {
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.team {
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.contact {
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.comingsoon {
+  font-family: helvetica;
+  font-size: 14px;
+}
+
+.hiring {
+  font-family: helvetica;
+  font-size: 14px;
+}
+
+.details {
+  font-family: helvetica;
+  font-size: 14px;
+}
+
+.email {
+  font-family: helvetica;
+  font-size: 14px;
+}
+
+.twitter {
+  font-family: helvetica;
+  font-size: 14px;
+}
+
+.copyright {
+  font-family: helvetica;
+  font-size: 15px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
